@@ -1,7 +1,31 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="250" viewBox="0 0 1200 250">
-  <rect width="1200" height="250" rx="24" fill="#0d1117"/>
-  <text x="60" y="72" fill="#8b949e" font-family="monospace" font-size="18">01 / ABOUT</text>
-  <text x="60" y="125" fill="#f0f6fc" font-family="Arial, Helvetica, sans-serif" font-size="28" font-weight="700">Data Science student @ UNIVESP · Systems Development Technician</text>
-  <text x="60" y="171" fill="#c9d1d9" font-family="Arial, Helvetica, sans-serif" font-size="22">IT intern building a path in Data Analytics, BI, Statistics and Machine Learning.</text>
-  <text x="60" y="208" fill="#8b949e" font-family="Arial, Helvetica, sans-serif" font-size="19">I enjoy the intersection between mathematics, logic, programming and real-world problems.</text>
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="310" viewBox="0 0 1200 310">
+<defs>
+  <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#0b0c0f"/><stop offset="1" stop-color="#060607"/></linearGradient>
+  <radialGradient id="glow" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(930 110) rotate(90) scale(220)">
+    <stop stop-color="#7dd3fc" stop-opacity=".10"/><stop offset=".45" stop-color="#a78bfa" stop-opacity=".045"/><stop offset="1" stop-color="#fff" stop-opacity="0"/>
+  </radialGradient>
+  <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#7dd3fc" stop-opacity=".95"/><stop offset=".52" stop-color="#a78bfa" stop-opacity=".82"/><stop offset="1" stop-color="#f472b6" stop-opacity=".75"/></linearGradient>
+</defs>
+<rect width="1200" height="310" rx="30" fill="url(#bg)"/>
+<rect x="1" y="1" width="1198" height="308" rx="29" fill="none" stroke="#fff" stroke-opacity=".10"/>
+<rect width="1200" height="310" rx="30" fill="url(#glow)"/>
+<g stroke="#fff" stroke-opacity=".022">
+  <path d="M0 60H1200M0 120H1200M0 180H1200M0 240H1200M0 300H1200"/>
+  <path d="M60 0V310M120 0V310M180 0V310M240 0V310M300 0V310M360 0V310M420 0V310M480 0V310M540 0V310M600 0V310M660 0V310M720 0V310M780 0V310M840 0V310M900 0V310M960 0V310M1020 0V310M1080 0V310M1140 0V310"/>
+</g>
+<text x="48" y="48" fill="#686a73" font-family="ui-monospace,Consolas,monospace" font-size="11" letter-spacing="2">01 / ABOUT</text>
+<line x1="48" y1="68" x2="1152" y2="68" stroke="#fff" stroke-opacity=".08"/>
+<text x="48" y="124" fill="#f0f0f2" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="28" font-weight="700">I like turning messy data into something useful.</text>
+<text x="48" y="166" fill="#9899a1" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="16">Data Science student at UNIVESP and Systems Development Technician,</text>
+<text x="48" y="194" fill="#9899a1" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="16">currently working in IT while building projects across analytics, BI and ML.</text>
+<line x1="720" y1="100" x2="720" y2="255" stroke="#fff" stroke-opacity=".08"/>
+<text x="758" y="120" fill="#666872" font-family="ui-monospace,Consolas,monospace" font-size="10" letter-spacing="1.5">CURRENT FIELD</text>
+<g font-family="Inter,Segoe UI,Arial,sans-serif" font-size="15" fill="#d7d7db">
+  <text x="758" y="158">Data Analytics + BI</text>
+  <text x="758" y="188">Machine Learning + Statistics</text>
+  <text x="758" y="218">Data Engineering + AI</text>
+</g>
+<g stroke="url(#accent)" stroke-width="2"><path d="M740 154h8M740 184h8M740 214h8"/></g>
+<rect x="48" y="238" width="592" height="40" rx="12" fill="#fff" fill-opacity=".025" stroke="#fff" stroke-opacity=".08"/>
+<text x="66" y="263" fill="#b2b3b9" font-family="ui-monospace,Consolas,monospace" font-size="11">UNDERSTAND THE DATA. BUILD THE SOLUTION. MEASURE THE IMPACT.</text>
 </svg>
