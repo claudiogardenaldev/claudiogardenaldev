@@ -33,29 +33,37 @@
 
 <img src="https://img.shields.io/badge/PANDAS-111318?style=for-the-badge&logo=pandas&logoColor=white">
 <img src="https://img.shields.io/badge/NUMPY-111318?style=for-the-badge&logo=numpy&logoColor=white">
+<img src="https://img.shields.io/badge/SQL-111318?style=for-the-badge&logo=postgresql&logoColor=white">
+<img src="https://img.shields.io/badge/dbt-111318?style=for-the-badge&logo=dbt&logoColor=FF694B">
+<img src="https://img.shields.io/badge/APACHE_KAFKA-111318?style=for-the-badge&logo=apachekafka&logoColor=white">
+<img src="https://img.shields.io/badge/APACHE_AIRFLOW-111318?style=for-the-badge&logo=apacheairflow&logoColor=017CEE">
+<img src="https://img.shields.io/badge/POWER_BI-111318?style=for-the-badge&logo=powerbi&logoColor=F2C811">
 <img src="https://img.shields.io/badge/STATISTICS-111318?style=for-the-badge">
 <img src="https://img.shields.io/badge/EDA-111318?style=for-the-badge">
-<img src="https://img.shields.io/badge/SQL-111318?style=for-the-badge&logo=postgresql&logoColor=white">
 
 <br><br>
 
 ### AI + Machine Learning
 
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch&theme=dark&perline=8" />
+
+<br>
+
 <img src="https://img.shields.io/badge/SCIKIT--LEARN-111318?style=for-the-badge&logo=scikitlearn&logoColor=F7931E">
 <img src="https://img.shields.io/badge/TENSORFLOW-111318?style=for-the-badge&logo=tensorflow&logoColor=FF6F00">
 <img src="https://img.shields.io/badge/PYTORCH-111318?style=for-the-badge&logo=pytorch&logoColor=EE4C2C">
-<img src="https://img.shields.io/badge/ARTIFICIAL_INTELLIGENCE-111318?style=for-the-badge">
-<img src="https://img.shields.io/badge/LLMs-111318?style=for-the-badge">
+<img src="https://img.shields.io/badge/ARTIFICIAL_INTELLIGENCE-111318?style=for-the-badge&logo=openai&logoColor=white">
+<img src="https://img.shields.io/badge/LLMs-111318?style=for-the-badge&logo=huggingface&logoColor=FFD21E">
 
 <br><br>
 
 ### Business Intelligence
 
 <img src="https://img.shields.io/badge/POWER_BI-111318?style=for-the-badge&logo=powerbi&logoColor=F2C811">
-<img src="https://img.shields.io/badge/POWER_QUERY-111318?style=for-the-badge">
-<img src="https://img.shields.io/badge/DAX-111318?style=for-the-badge">
+<img src="https://img.shields.io/badge/POWER_QUERY-111318?style=for-the-badge&logo=powerbi&logoColor=F2C811">
+<img src="https://img.shields.io/badge/DAX-111318?style=for-the-badge&logo=powerbi&logoColor=F2C811">
 <img src="https://img.shields.io/badge/EXCEL_ADVANCED-111318?style=for-the-badge&logo=microsoftexcel&logoColor=217346">
-<img src="https://img.shields.io/badge/KPIs-111318?style=for-the-badge">
+<img src="https://img.shields.io/badge/KPIs-111318?style=for-the-badge&logo=googleanalytics&logoColor=F9AB00">
 
 <br><br>
 
