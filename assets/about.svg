@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="250" viewBox="0 0 1200 250">
+  <rect width="1200" height="250" rx="24" fill="#0d1117"/>
+  <text x="60" y="72" fill="#8b949e" font-family="monospace" font-size="18">01 / ABOUT</text>
+  <text x="60" y="125" fill="#f0f6fc" font-family="Arial, Helvetica, sans-serif" font-size="28" font-weight="700">Data Science student @ UNIVESP · Systems Development Technician</text>
+  <text x="60" y="171" fill="#c9d1d9" font-family="Arial, Helvetica, sans-serif" font-size="22">IT intern building a path in Data Analytics, BI, Statistics and Machine Learning.</text>
+  <text x="60" y="208" fill="#8b949e" font-family="Arial, Helvetica, sans-serif" font-size="19">I enjoy the intersection between mathematics, logic, programming and real-world problems.</text>
+</svg>
