@@ -7,10 +7,6 @@
 <a href="https://github.com/claudiogardenaldev">
   <img src="https://img.shields.io/badge/GITHUB-CLAUDIOGARDENALDEV-111318?style=for-the-badge&logo=github&logoColor=white">
 </a>
-&nbsp;
-<a href="mailto:jose.gardenal17@gmail.com">
-  <img src="https://img.shields.io/badge/EMAIL-CONTACT-EA4335?style=for-the-badge&logo=gmail&logoColor=white">
-</a>
 
 <br><br>
 
@@ -23,17 +19,35 @@
 
 ## `03 / TOOLBOX`
 
-### Data + Machine Learning
+### Languages
 
-<img src="https://skillicons.dev/icons?i=python,postgres&theme=dark&perline=8" />
+<img src="https://skillicons.dev/icons?i=python,r,js,php,java&theme=dark&perline=8" />
+
+<br><br>
+
+### Data + Analytics
+
+<img src="https://skillicons.dev/icons?i=postgres&theme=dark&perline=8" />
 
 <br>
 
 <img src="https://img.shields.io/badge/PANDAS-111318?style=for-the-badge&logo=pandas&logoColor=white">
 <img src="https://img.shields.io/badge/NUMPY-111318?style=for-the-badge&logo=numpy&logoColor=white">
-<img src="https://img.shields.io/badge/SCIKIT--LEARN-111318?style=for-the-badge&logo=scikitlearn&logoColor=F7931E">
 <img src="https://img.shields.io/badge/STATISTICS-111318?style=for-the-badge">
 <img src="https://img.shields.io/badge/EDA-111318?style=for-the-badge">
+<img src="https://img.shields.io/badge/SQL-111318?style=for-the-badge&logo=postgresql&logoColor=white">
+
+<br><br>
+
+### AI + Machine Learning
+
+<img src="https://img.shields.io/badge/SCIKIT--LEARN-111318?style=for-the-badge&logo=scikitlearn&logoColor=F7931E">
+<img src="https://img.shields.io/badge/TENSORFLOW-111318?style=for-the-badge&logo=tensorflow&logoColor=FF6F00">
+<img src="https://img.shields.io/badge/PYTORCH-111318?style=for-the-badge&logo=pytorch&logoColor=EE4C2C">
+<img src="https://img.shields.io/badge/ARTIFICIAL_INTELLIGENCE-111318?style=for-the-badge">
+<img src="https://img.shields.io/badge/LLMs-111318?style=for-the-badge">
+
+<br><br>
 
 ### Business Intelligence
 
@@ -43,9 +57,11 @@
 <img src="https://img.shields.io/badge/EXCEL_ADVANCED-111318?style=for-the-badge&logo=microsoftexcel&logoColor=217346">
 <img src="https://img.shields.io/badge/KPIs-111318?style=for-the-badge">
 
-### Development
+<br><br>
 
-<img src="https://skillicons.dev/icons?i=git,github,fastapi,django&theme=dark&perline=8" />
+### Backend + Systems
+
+<img src="https://skillicons.dev/icons?i=fastapi,git,linux,django,docker&theme=dark&perline=8" />
 
 <br>
 
