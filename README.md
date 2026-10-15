@@ -27,49 +27,63 @@
 
 ### Data + Analytics
 
-<img src="https://skillicons.dev/icons?i=postgres&theme=dark&perline=8" />
+<p>
+  <img src="https://cdn.simpleicons.org/python/3776AB" height="48" alt="Python" title="Python" />
+  &nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/postgresql/4169E1" height="48" alt="PostgreSQL" title="PostgreSQL" />
+  &nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/pandas/FFFFFF" height="48" alt="Pandas" title="Pandas" />
+  &nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/numpy/4DABCF" height="48" alt="NumPy" title="NumPy" />
+  &nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/dbt/FF694B" height="48" alt="dbt" title="dbt" />
+  &nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/apachekafka/FFFFFF" height="48" alt="Apache Kafka" title="Apache Kafka" />
+  &nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/apacheairflow/017CEE" height="48" alt="Apache Airflow" title="Apache Airflow" />
+  &nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/powerbi/F2C811" height="48" alt="Power BI" title="Power BI" />
+</p>
 
-<br>
-
-<img src="https://img.shields.io/badge/PANDAS-111318?style=for-the-badge&logo=pandas&logoColor=white">
-<img src="https://img.shields.io/badge/NUMPY-111318?style=for-the-badge&logo=numpy&logoColor=white">
-<img src="https://img.shields.io/badge/SQL-111318?style=for-the-badge&logo=postgresql&logoColor=white">
-<img src="https://img.shields.io/badge/dbt-111318?style=for-the-badge&logo=dbt&logoColor=FF694B">
-<img src="https://img.shields.io/badge/APACHE_KAFKA-111318?style=for-the-badge&logo=apachekafka&logoColor=white">
-<img src="https://img.shields.io/badge/APACHE_AIRFLOW-111318?style=for-the-badge&logo=apacheairflow&logoColor=017CEE">
-<img src="https://img.shields.io/badge/POWER_BI-111318?style=for-the-badge&logo=powerbi&logoColor=F2C811">
-<img src="https://img.shields.io/badge/STATISTICS-111318?style=for-the-badge">
-<img src="https://img.shields.io/badge/EDA-111318?style=for-the-badge">
+<sub>Python • PostgreSQL • Pandas • NumPy • dbt • Kafka • Airflow • Power BI • SQL • Statistics • EDA</sub>
 
 <br><br>
 
 ### AI + Machine Learning
 
-<img src="https://skillicons.dev/icons?i=tensorflow,pytorch&theme=dark&perline=8" />
+<p>
+  <img src="https://cdn.simpleicons.org/scikitlearn/F7931E" height="50" alt="Scikit-learn" title="Scikit-learn" />
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/tensorflow/FF6F00" height="50" alt="TensorFlow" title="TensorFlow" />
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/pytorch/EE4C2C" height="50" alt="PyTorch" title="PyTorch" />
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/huggingface/FFD21E" height="50" alt="Hugging Face" title="Hugging Face" />
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/openai/FFFFFF" height="50" alt="Artificial Intelligence" title="Artificial Intelligence / LLMs" />
+</p>
 
-<br>
-
-<img src="https://img.shields.io/badge/SCIKIT--LEARN-111318?style=for-the-badge&logo=scikitlearn&logoColor=F7931E">
-<img src="https://img.shields.io/badge/TENSORFLOW-111318?style=for-the-badge&logo=tensorflow&logoColor=FF6F00">
-<img src="https://img.shields.io/badge/PYTORCH-111318?style=for-the-badge&logo=pytorch&logoColor=EE4C2C">
-<img src="https://img.shields.io/badge/ARTIFICIAL_INTELLIGENCE-111318?style=for-the-badge&logo=openai&logoColor=white">
-<img src="https://img.shields.io/badge/LLMs-111318?style=for-the-badge&logo=huggingface&logoColor=FFD21E">
+<sub>Scikit-learn • TensorFlow • PyTorch • Machine Learning • Deep Learning • AI • LLMs</sub>
 
 <br><br>
 
 ### Business Intelligence
 
-<img src="https://img.shields.io/badge/POWER_BI-111318?style=for-the-badge&logo=powerbi&logoColor=F2C811">
+<p>
+  <img src="https://cdn.simpleicons.org/powerbi/F2C811" height="46" alt="Power BI" title="Power BI" />
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/microsoftexcel/217346" height="46" alt="Excel" title="Excel" />
+</p>
+
 <img src="https://img.shields.io/badge/POWER_QUERY-111318?style=for-the-badge&logo=powerbi&logoColor=F2C811">
 <img src="https://img.shields.io/badge/DAX-111318?style=for-the-badge&logo=powerbi&logoColor=F2C811">
-<img src="https://img.shields.io/badge/EXCEL_ADVANCED-111318?style=for-the-badge&logo=microsoftexcel&logoColor=217346">
 <img src="https://img.shields.io/badge/KPIs-111318?style=for-the-badge&logo=googleanalytics&logoColor=F9AB00">
 
 <br><br>
 
 ### Backend + Systems
 
-<img src="https://skillicons.dev/icons?i=fastapi,git,linux,django,docker&theme=dark&perline=8" />
+<img src="https://skillicons.dev/icons?i=fastapi,git,github,linux,django,docker&theme=dark&perline=8" />
 
 <br>
 
