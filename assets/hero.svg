@@ -1,8 +1,23 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1200" height="360" viewBox="0 0 1200 360">
-  <rect width="1200" height="360" rx="28" fill="#0d1117"/>
-  <rect x="34" y="34" width="1132" height="292" rx="22" fill="none" stroke="#30363d" stroke-width="2"/>
-  <text x="70" y="105" fill="#8b949e" font-family="Arial, Helvetica, sans-serif" font-size="20" letter-spacing="4">DATA · ANALYTICS · MACHINE LEARNING</text>
-  <text x="70" y="190" fill="#f0f6fc" font-family="Arial, Helvetica, sans-serif" font-size="58" font-weight="700">CLÁUDIO GARDENAL</text>
-  <text x="70" y="240" fill="#c9d1d9" font-family="Arial, Helvetica, sans-serif" font-size="25">turning data into insights, models and better decisions.</text>
-  <text x="70" y="292" fill="#7ee787" font-family="monospace" font-size="19">Python  •  SQL  •  Power BI  •  Statistics  •  Machine Learning</text>
+<defs>
+  <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#0b0c0f"/><stop offset="1" stop-color="#060607"/></linearGradient>
+  <radialGradient id="glow" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(930 90) rotate(90) scale(260)">
+    <stop stop-color="#7dd3fc" stop-opacity=".12"/><stop offset=".48" stop-color="#a78bfa" stop-opacity=".06"/><stop offset="1" stop-color="#fff" stop-opacity="0"/>
+  </radialGradient>
+  <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#7dd3fc"/><stop offset=".52" stop-color="#a78bfa"/><stop offset="1" stop-color="#f472b6"/></linearGradient>
+</defs>
+<rect width="1200" height="360" rx="30" fill="url(#bg)"/>
+<rect x="1" y="1" width="1198" height="358" rx="29" fill="none" stroke="#fff" stroke-opacity=".10"/>
+<rect width="1200" height="360" rx="30" fill="url(#glow)"/>
+<g stroke="#fff" stroke-opacity=".022">
+  <path d="M0 60H1200M0 120H1200M0 180H1200M0 240H1200M0 300H1200"/>
+  <path d="M60 0V360M120 0V360M180 0V360M240 0V360M300 0V360M360 0V360M420 0V360M480 0V360M540 0V360M600 0V360M660 0V360M720 0V360M780 0V360M840 0V360M900 0V360M960 0V360M1020 0V360M1080 0V360M1140 0V360"/>
+</g>
+<text x="48" y="52" fill="#686a73" font-family="ui-monospace,Consolas,monospace" font-size="11" letter-spacing="2">DATA / ANALYTICS / AI</text>
+<line x1="48" y1="72" x2="1152" y2="72" stroke="#fff" stroke-opacity=".08"/>
+<text x="48" y="155" fill="#f0f0f2" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="58" font-weight="700">CLÁUDIO GARDENAL</text>
+<text x="50" y="202" fill="#a3a4ac" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="21">Data Science student building analytical, engineering and intelligent systems.</text>
+<rect x="48" y="248" width="704" height="48" rx="14" fill="#fff" fill-opacity=".025" stroke="#fff" stroke-opacity=".08"/>
+<text x="70" y="278" fill="#c7c8ce" font-family="ui-monospace,Consolas,monospace" font-size="12" letter-spacing=".7">PYTHON  ·  SQL  ·  POWER BI  ·  STATISTICS  ·  MACHINE LEARNING  ·  DATA ENGINEERING</text>
+<line x1="48" y1="327" x2="380" y2="327" stroke="url(#accent)" stroke-width="3"/>
 </svg>
